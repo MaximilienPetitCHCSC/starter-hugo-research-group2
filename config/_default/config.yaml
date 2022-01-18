@@ -58,10 +58,7 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 3
-imaging:
-  resampleFilter: lanczos
-  quality: 75
-  anchor: smart
+
 timeout: 600000
 taxonomies:
   tag: tags
